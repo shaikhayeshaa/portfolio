@@ -62632,7 +62632,7 @@ A.Xe.prototype={
 Qo(a){$.a9h().m(0,this,a)}}
 A.CF.prototype={
 J(a){var s=null
-return new A.tC(new A.t0(s),"Flutter Demo",A.ab9(s,A.adc(B.U,s,s,B.E2),s),!1,s)}}
+return new A.tC(new A.t0(s),"Ayesha Aqeel - Portfolio",A.ab9(s,A.adc(B.U,s,s,B.E2),s),!1,s)}}
 A.re.prototype={
 a8(){var s=null,r=t.A
 return new A.wB(new A.aZ(s,r),new A.aZ(s,r),new A.aZ(s,r),new A.aZ(s,r))}}
@@ -62651,7 +62651,7 @@ break
 case 4:throw A.f("Could not launch "+q.k(0))
 case 3:return A.N(null,r)}})
 return A.O($async$n6,r)},
-J(a){var s,r=this,q=null,p=A.bD(a,q,t.w).w.a,o=p.b,n=t.D,m=A.aT(q,A.cm(A.c([A.aA(A.c([new A.BN(p,q),A.aS(q,20,q),new A.ER(p,q)],n),B.k,B.n,B.m,0),A.l0(A.aS(A.aA(A.c([new A.uQ(q)],n),B.k,B.n,B.m,0),o*0.75,q),1)],n),B.ay,B.n,B.aZ,0),B.o,q,q,q,q,q,new A.al(0,o*0.12,0,0),q,q,q,q),l=A.aT(q,A.aA(A.c([A.aS(q,40,q),A.b3("About Me",q,q,B.aF,q,q),A.cm(A.c([A.l0(A.aS(A.aA(A.c([A.aS(q,60,q),new A.qg(q)],n),B.k,B.n,B.m,0),q,q),1),A.aA(A.c([new A.mT(p,q)],n),B.k,B.n,B.m,0)],n),B.k,B.n,B.aZ,0),A.aS(q,40,q)],n),B.k,B.n,B.m,0),B.o,q,B.ah,q,q,r.d,q,q,q,q,q),k=A.aT(q,A.aA(A.c([A.aS(q,30,q),A.b3("Skills",q,q,B.aF,q,q),A.cm(A.c([A.aA(A.c([new A.oA(p,q),A.aS(q,30,q),new A.vk(q),A.aS(q,40,q)],n),B.k,B.n,B.m,0)],n),B.k,B.aY,B.m,0),A.aS(q,40,q)],n),B.k,B.n,B.m,0),B.o,q,B.ah,q,q,r.f,q,q,q,q,1/0),j=p.a,i=j*0.1,h=o*0.05
+J(a){var s,r=this,q=null,p=A.bD(a,q,t.w).w.a,o=p.b,n=t.D,m=A.aT(q,A.cm(A.c([A.aA(A.c([new A.BN(p,q),A.aS(q,20,q),new A.ER(p,q)],n),B.k,B.n,B.m,0),A.l0(A.aS(A.aA(A.c([new A.uQ(q)],n),B.k,B.n,B.m,0),o*0.75,q),1)],n),B.ay,B.n,B.aZ,0),B.o,q,q,q,q,q,new A.al(0,o*0.14,0,0),q,q,q,q),l=A.aT(q,A.aA(A.c([A.aS(q,40,q),A.b3("About Me",q,q,B.aF,q,q),A.cm(A.c([A.l0(A.aS(A.aA(A.c([A.aS(q,60,q),new A.qg(q)],n),B.k,B.n,B.m,0),q,q),1),A.aA(A.c([new A.mT(p,q)],n),B.k,B.n,B.m,0)],n),B.k,B.n,B.aZ,0),A.aS(q,40,q)],n),B.k,B.n,B.m,0),B.o,q,B.ah,q,q,r.d,q,q,q,q,q),k=A.aT(q,A.aA(A.c([A.aS(q,30,q),A.b3("Skills",q,q,B.aF,q,q),A.cm(A.c([A.aA(A.c([new A.oA(p,q),A.aS(q,30,q),new A.vk(q),A.aS(q,40,q)],n),B.k,B.n,B.m,0)],n),B.k,B.aY,B.m,0),A.aS(q,40,q)],n),B.k,B.n,B.m,0),B.o,q,B.ah,q,q,r.f,q,q,q,q,1/0),j=p.a,i=j*0.1,h=o*0.05
 j=A.aT(q,A.aA(A.c([A.aS(q,40,q),A.b3("My Projects",q,q,B.aF,q,q),A.cm(A.c([A.l0(new A.c7(new A.al(i,h,i,h),A.aS(A.aA(A.c([A.cb("assets/imgs/petiverse.jpg",q,q),A.cb("assets/imgs/nazaria.png",q,q)],n),B.k,B.n,B.m,j*0.03),q,q),q),1)],n),B.k,B.n,B.aZ,0),A.aS(q,40,q)],n),B.k,B.n,B.m,0),B.o,q,B.ah,q,q,r.e,q,q,q,q,q)
 h=A.b3("Contact & Collaboration",q,q,B.aF,q,q)
 o*=0.02
